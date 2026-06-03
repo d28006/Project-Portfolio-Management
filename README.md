@@ -175,8 +175,8 @@ Completion % and Status (color-coded: In Progress, Complete, On Hold, Cancelled)
 
  ROI Transparency: Cost-benefit comparison across projects enables leadership to prioritize high-value initiatives.
 
-⚠️ Risk Identification: Several projects are on hold or cancelled despite significant costs, signaling potential inefficiencies.
+ Risk Identification: Several projects are on hold or cancelled despite significant costs, signaling potential inefficiencies.
 
-🎯 Strategic Oversight: Regional and managerial filters allow executives to drill down into performance accountability and resource utilization.
+ Strategic Oversight: Regional and managerial filters allow executives to drill down into performance accountability and resource utilization.
 
-✅ Improved Governance: Completion % and phase tracking make it easier to measure execution against strategic goals.
+ Improved Governance: Completion % and phase tracking make it easier to measure execution against strategic goals.

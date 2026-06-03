@@ -4,7 +4,7 @@
 
 1. Project Title / Headline
 
-📅 Project Portfolio Timeline Dashboard: Multi-Year Insights on Progress, Cost, and Benefits
+ Project Portfolio Timeline Dashboard: Multi-Year Insights on Progress, Cost, and Benefits
 
 An interactive Power BI dashboard designed to monitor organizational projects across multiple years, track progress by phase, measure completion against benefits, and enable executives to prioritize resources effectively.
 
@@ -24,13 +24,13 @@ Identify risks and stalled initiatives to improve resource allocation.
 
 The dashboard was built using the following tools and technologies:
 
-• 📊 Power BI Desktop – Core platform for visualization and interactive reporting
-• 🔄 Power Query (M) – For extracting, cleaning, and transforming project portfolio data
-• 🧠 DAX (Data Analysis Expressions) – For KPI calculations like completion %, benefit vs cost ratios
-• 🧩 Data Modeling – Linking project attributes (region, type, manager, timeline) into a structured model
-• 🗄 SQL Database – Backend data store for project portfolio details before integration
-• 💻 SQL (SELECT, JOIN, Aggregates) – Used for preparing historical and ongoing project datasets
-• 📁 File Format – .pbix (Power BI project), shareable as reports or images
+•  Power BI Desktop – Core platform for visualization and interactive reporting
+•  Power Query (M) – For extracting, cleaning, and transforming project portfolio data
+•  DAX (Data Analysis Expressions) – For KPI calculations like completion %, benefit vs cost ratios
+•  Data Modeling – Linking project attributes (region, type, manager, timeline) into a structured model
+•  SQL Database – Backend data store for project portfolio details before integration
+•  SQL (SELECT, JOIN, Aggregates) – Used for preparing historical and ongoing project datasets
+•  File Format – .pbix (Power BI project), shareable as reports or images
 
 4. Data Source
 
@@ -66,7 +66,7 @@ Transparency into project health and blockers
 
 6. Walkthrough of Key Visuals
 
-🔹 Top KPIs Panel
+ Top KPIs Panel
 
 Total Projects (99) – The total number of projects currently tracked across all departments and phases.
 
@@ -76,7 +76,7 @@ Project Benefits ($874M) – Overall realized or expected project benefits.
 
 Benefits-to-Cost Ratio (2.12) – A strategic KPI showing ROI efficiency, where benefits are more than double the costs.
 
-🔹 Trend of Projects (Line Chart)
+ Trend of Projects (Line Chart)
 
 Displays the monthly progression of projects throughout the year.
 
@@ -84,13 +84,13 @@ Peaks in July and November highlight high initiation or completion cycles.
 
 Dip in December indicates project slowdowns, possibly due to year-end closures.
 
-🔹 Region (Donut Chart)
+ Region (Donut Chart)
 
 Projects distributed across East (22.92%), North (19.79%), South (21.88%), and West (35.42%).
 
 West region dominates with the largest project share (35.42%), suggesting higher business focus or demand.
 
-🔹 Status (Bar Chart)
+ Status (Bar Chart)
 
 Breakdown of project statuses:
 
@@ -102,13 +102,13 @@ In Progress – 25 (ongoing pipeline).
 
 On Hold – 17 (potential bottlenecks or resource issues).
 
-🔹 Complexity (Stacked Bar)
+ Complexity (Stacked Bar)
 
 Shows project classification by High (40), Low (30), and Medium (29) complexity.
 
 High complexity projects dominate, indicating resource-intensive and strategic initiatives.
 
-🔹 Benefits-to-Cost Ratio (Bar Chart)
+ Benefits-to-Cost Ratio (Bar Chart)
 
 Top-performing projects:
 
@@ -120,7 +120,7 @@ A Salute to New Workers (3.6)
 
 These projects deliver the best value for cost, serving as benchmarks for future planning.
 
-🔹 Department (Bar Chart)
+ Department (Bar Chart)
 
 Projects by department:
 
@@ -136,7 +136,7 @@ Sales & Marketing – 14
 
 Highlights which divisions are managing the most projects and workload distribution.
 
-🔹 Phase (Column Chart)
+ Phase (Column Chart)
 
 Projects by lifecycle phase:
 
@@ -171,9 +171,9 @@ Completion % and Status (color-coded: In Progress, Complete, On Hold, Cancelled)
 
 7. Business Impact & Insights
 
-📊 Project Volume Fluctuations: Peaks in 2021, 2022, and 2023 highlight cyclical project activity. Strategic planning is needed for staffing and resource alignment.
+ Project Volume Fluctuations: Peaks in 2021, 2022, and 2023 highlight cyclical project activity. Strategic planning is needed for staffing and resource alignment.
 
-💰 ROI Transparency: Cost-benefit comparison across projects enables leadership to prioritize high-value initiatives.
+ ROI Transparency: Cost-benefit comparison across projects enables leadership to prioritize high-value initiatives.
 
 ⚠️ Risk Identification: Several projects are on hold or cancelled despite significant costs, signaling potential inefficiencies.
 
